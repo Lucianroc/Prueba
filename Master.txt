@@ -2,3 +2,7 @@
 <Version: 1.01>
 
 <End of Version>
+
+<Version: 1.02>
+/js/plugins TerraxLightning.js https://raw.githubusercontent.com/Lucianroc/Prueba/master/TerraxLighting.js
+<End of Version>
