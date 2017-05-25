@@ -4,5 +4,6 @@
 <End of Version>
 
 <Version: 1.02>
-/js/plugins TerraxLightning.js https://raw.githubusercontent.com/Lucianroc/Prueba/master/TerraxLighting.js
+/js/plugins/TerraxLightning.js https://raw.githubusercontent.com/Lucianroc/Prueba/master/TerraxLighting.js
+/data/Map001.json https://raw.githubusercontent.com/Lucianroc/Prueba/master/Map001.json
 <End of Version>
